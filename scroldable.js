@@ -3,11 +3,13 @@
  *
  * Written by Adam Daly
  *
- * Version 0.2
+ * Version 0.3
  *
  * Log: 
  * 	Changes 0.2: No longer depends on jqueryUI, Vertical and Horizontal Scroll
  *	ToDo: Scroll on mousewheel
+ *	Changes 0.3: Scroll on mousewheel added
+ *	ToDo: Tidy up Scroll on mousewheel to scroll at a useful and consistant speed
  */
  
  // the semi-colon before function invocation is a safety net against concatenated
